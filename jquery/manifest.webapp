@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "name": "El salvador Travel",
+  "description": "app de turismo",
+  "launch_path": "/index.html",
+  "fullscreen": "false",
+  "icons": {
+    "128": "/images/travel.png"
+  },
+  "developer": {
+    "name": "Eduardo Gomez Valencia",
+    "url": "https://groupdeveloper.hol.es"
+  },
+  "default_locale": "es"
+}

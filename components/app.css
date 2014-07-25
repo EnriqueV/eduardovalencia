@@ -1,0 +1,28 @@
+h1{
+text-align: center;
+font-size: 22px;
+font-family:bold;
+}
+
+p{
+font-family:bold;
+font-size: 16px;
+text-align: justify; 
+margin: 15px 10px 15px 10px
+
+}
+
+.multicolumna{
+column-count: 3;
+column-gap: 20px;
+column-rule: 1px solid #fff ;
+
+}
+h2{
+
+font-size: 20px;
+font-family:bold;
+color: gray;
+
+
+}

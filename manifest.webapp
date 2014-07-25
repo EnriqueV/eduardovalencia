@@ -1,0 +1,13 @@
+{
+  "name": "El Salvador Travel",
+  "description": "Guia turistica de El salvador",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/ico1.png"
+  },
+  "developer": {
+    "name": "Eduardo Valencia",
+    "url": "http://www.eduardovalencia.tk"
+  },
+  "default_locale": "es"
+}
