@@ -1,7 +1,3 @@
-## Lungo Boilerplate para Firefox OS
+## El salvador Travel
 
-Ejemplo de aplicación para Firefox OS usando el framework Lungo.
-
-Vídeo tutorial en:
-
-http://youtu.be/ggun8HZce8w
+app de turismo de El salvador
